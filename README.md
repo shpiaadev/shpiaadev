@@ -7,18 +7,4 @@
 </h3>
 
 **Hai perkenalkan saya seorang developer (DART - FLUTTER)**
-Saya bisa membuat melakukan
-
-1. **JASA DEVELOPER (DART - FLUTTER) APP - BOT - USERBOT - API - BACKEND - AI - HARDWARE**
-2. **Menjual Produk CLONE BOT - USERBOT - APP - API - Digital / Fisik**
-3. **Saya juga bisa mencarikan anda pasangan**
-4. **SAYA Bisa melatih anda agar bisa memiliki skills coding / hal lain loh**
-
-Btw Saya bekerja di **GENERAL CORPORATION** Tolong bantu subscribe agar saya bisa naik gaji ya
-
-1. [YOUTUBE](https://www.youtube.com/@GENERALCORP)
-2. [GITHUB](https://github.com/generalcorporation)
-3. [TELEGRAM](https://t.me/GENERALCORPORATIONBOT?start=ref_gh_readme_shpiaadev)
-
-🙏️ **Tolong siapapun beli jasa kami agar kami bisa bergerak maju lebih cepat**
----
+Saya bisa membuat melakukan 
